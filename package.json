@@ -1,0 +1,24 @@
+{
+  "name": "ng-notie",
+  "version": "0.0.0",
+  "description": "AngularJS wrapper for notie.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/ng-notie.git"
+  },
+  "keywords": [
+    "notie",
+    "notie.js",
+    "alert",
+    "notification",
+    "plugin",
+    "alert"
+  ],
+  "author": "Cédric <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/ng-notie/issues"
+  },
+  "homepage": "https://github.com/cedced19/ng-notie#readme"
+}
