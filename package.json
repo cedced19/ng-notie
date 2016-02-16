@@ -1,6 +1,6 @@
 {
   "name": "ng-notie",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "AngularJS wrapper for notie.js.",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,9 @@
   ],
   "author": "Cédric <cedced19@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "notie": "2.1.0"
+  },
   "bugs": {
     "url": "https://github.com/cedced19/ng-notie/issues"
   },
